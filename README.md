@@ -1,7 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20pchyuk's%20GitHub%20&fontSize=50)
 
-![pchyuk's github stats](https://github-readme-stats.vercel.app/api?username=pchyuk&show_icons=true)
-[![pchyuk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pchyuk&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pchyuk)
+##
+
+![pchyuk's github stats](https://github-readme-stats.vercel.app/api?username=pchyuk&include_all_commits=true&show_icons=true&theme=cobalt)
+
 
 <!--
 **pchyuk/pchyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
