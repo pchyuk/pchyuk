@@ -2,7 +2,7 @@
 
 ##
 
-![pchyuk's github stats](https://github-readme-stats.vercel.app/api?username=pchyuk&include_all_commits=true&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchyuk&layout=compact)
+![pchyuk's github stats](https://github-readme-stats.vercel.app/api?username=pchyuk&include_all_commits=true&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchyuk&layout=compact&theme=radical)
 
 ##
 
