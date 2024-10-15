@@ -2,7 +2,8 @@
 
 ##
 
-![pchyuk's github stats](https://github-readme-stats.vercel.app/api?username=pchyuk&include_all_commits=true&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchyuk)](https://github.com/anuraghazra/github-readme-stats)
+![pchyuk's github stats](https://github-readme-stats.vercel.app/api?username=pchyuk&include_all_commits=true&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchyuk&layout=compact)
+
 ##
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pchyuk&theme=dark&hide_border=true)](https://git.io/streak-stats)
