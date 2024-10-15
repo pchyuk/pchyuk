@@ -6,10 +6,10 @@
 
 ##
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pch6590)](https://solved.ac/pch6590) [![GitHub Streak](https://streak-stats.demolab.com?user=pchyuk&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pchyuk&theme=dark&hide_border=true)](https://git.io/streak-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pch6590)](https://solved.ac/pch6590)
 
 ##
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pch6590)](https://solved.ac/pch6590)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpchyuk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
