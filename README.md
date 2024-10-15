@@ -6,7 +6,7 @@
 
 ##
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pchyuk&theme=dark&hide_border=true)](https://git.io/streak-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pch6590)](https://solved.ac/pch6590)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pch6590)] [![GitHub Streak](https://streak-stats.demolab.com?user=pchyuk&theme=dark&hide_border=true)](https://git.io/streak-stats) (https://solved.ac/pch6590)
 
 ##
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pch6590)](https://solved.ac/pch6590)
